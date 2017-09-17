@@ -5,6 +5,7 @@ package utils
 import (
 	"fmt"
 	"math/rand"
+	"crypto/rand"
 	"sort"
 	"strconv"
 	"strings"
